@@ -1,0 +1,50 @@
+_repo: White-Nights-and-Other-StoriesThe-Novels-of-Fyodor-Dostoevsky-Volume-X_36034
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Garnett, Constance
+    alias: Black, Constance Clara
+    birthdate: 1861
+    deathdate: 1946
+    gutenberg_agent_id: '2858'
+    url: http://www.gutenberg.org/2009/agents/2858
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Constance_Garnett
+    - http://www.womenofbrighton.co.uk/constanceblackgarnett.htm
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Dostoievski, Fedor Mikhailovitch
+    - Dostoevsky, Fyodor
+    - Достоевский, Фёдор Михайлович
+    - Dostoievski, Fédor Mikhailovitch
+    - Dostoyevsky, F. M.
+    - Dostoievski, Fiodor
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: http://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+description: ''
+gutenberg_issued: '2011-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36034'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian fiction -- Translations into English'
+- !lcsh 'Dostoyevsky, Fyodor, 1821-1881 -- Translations into English'
+- !lcc 'PG'
+tableOfContents: White nights -- Notes from underground -- A faint heart -- A Christmas
+  tree and a wedding -- Polzunkov -- A little hero -- Mr. Prohartchin.
+title: 'White Nights and Other Stories
+
+  The Novels of Fyodor Dostoevsky, Volume X'
+url: http://www.gutenberg.org/ebooks/36034
