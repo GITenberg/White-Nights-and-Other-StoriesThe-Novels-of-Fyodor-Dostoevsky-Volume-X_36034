@@ -30,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/314
     wikipedia: http://en.wikipedia.org/wiki/Fyodor_Dostoevsky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36034#White-Nights-and-Other-StoriesThe-Novels-of-Fyodor-Dostoevsky-Volume-X
 gutenberg_issued: '2011-05-05'
 gutenberg_type: Text
 identifiers:
